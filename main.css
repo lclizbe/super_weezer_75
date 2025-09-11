@@ -1,9 +1,19 @@
-<!DOCTYPE css>
-<style>
-{background: darkblue}
-h1 {color: rgb(0, 8, 10);margin-left: 40px;}
-<body>
-<h1>American Ceramics Today</h1>
-<p>The creation of a usable vessel from the humble beginnings of dirt and water is one of the most ancient of human artforms.</p>
-</body>
-<style>
+body {
+  background-color: #f4f4f9;      
+  font-family: Arial, sans-serif; 
+  padding: 40px;                  
+  margin: 0;                      
+}
+
+h1 {
+  color: #6a5acd;      
+  margin-left: 20px;
+  font-family: Georgia, serif;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.6;
+  color: #333;         
+  max-width: 600px;
+}
