@@ -1,19 +1,9 @@
 <!DOCTYPE css>
 <style>
-body {
-  background-color:blue;
-}
-
-h1 {
-  color: rgb(212, 218, 219);
-  margin-left: 40px;
-}
-</style>
-</head>
+body {background-color: darkblue}
+h1 {color: rgb(212, 218, 219);margin-left: 40px;}
 <body>
-
 <h1>American Ceramics Today</h1>
 <p>The creation of a usable vessel from the humble beginnings of dirt and water is one of the most ancient of human artforms.</p>
-
 </body>
-</html>
+<style>
