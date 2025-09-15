@@ -1,27 +1,26 @@
 body {
   background-color: #dedaf4;      
-  font-family: sans-serif; 
+  font-family: Verdana, Geneva, Tahoma, sans-serif; 
   padding: 40px;                  
   margin: 0;                      
 }
 
 h1 {
-  color: #f8f3fb;      
+  color: hwb(267 3% 3%);      
   margin-left: 5px;
   font-family: Georgia, serif;
 }
 
 h2 {
-  color: #c2c1fe;
+  color: #eb70e5;
   margin-left: 5px;
   font-family: Georgia, serif;
 }
 
-h3
-p {
-  line-height: 1.6;
-  color: #e336cc;         
-  font-family: Georgia, serif;
+h3{
+  color: #a8689f;         
+  font-family: Verdana, Geneva, Tahoma, sans-serif, serif;
+  margin-left: 5px;
 }
 
 a {
