@@ -1,8 +1,9 @@
 body {
-  background-color: #dedaf4;      
-  font-family: Verdana, Geneva, Tahoma, sans-serif; 
-  padding: 40px;                  
-  margin: 0;                      
+  background-color: #dedaf4;
+  font-family: "Smooch Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;100-900;
+  font-style: normal;                  
 }
 
 h1 {
@@ -27,8 +28,6 @@ a {
   color: yellowgreen;
   text-decoration-line: underline;
   font-weight:bold;
-}
-
-a:visited {
-  color: pink;
+  visited: pink;
+  hover; border-left
 }
