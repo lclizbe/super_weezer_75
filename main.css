@@ -28,3 +28,7 @@ a {
   text-decoration-line: underline;
   font-weight:bold;
 }
+
+a:visited {
+  color: pink;
+}
