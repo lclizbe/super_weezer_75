@@ -19,15 +19,21 @@ h2 {
 }
 
 h3{
-  color: #a8689f;         
+  color: #370b5b;         
   font-family: Verdana, Geneva, Tahoma, sans-serif, serif;
   margin-left: 5px
 }
 
+p {
+  color: #4b0082;
+  font-size: 18px;
+  margin-left: 5px;
+  font-family: "Smooch Sans", sans-serif;
+}
 a {
   color: yellowgreen;
+  font-size: 12px;
   text-decoration-line: underline;
   font-weight:bold;
-  visited: pink;
-  hover; color: thistle;
+  font-family: "Smooch Sans", sans-serif;
 }
